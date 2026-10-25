@@ -1,7 +1,5 @@
----
-description: Rules for IcySky, a SwiftUI project for a bluesky client
-globs: 
----
+# SwiftUI project conventions
+
 - This is a mostly a pure SwiftUI app.
 - It target iOS 18 so you can use the latest SwiftUI and iOS API
 - This is a client for the social network BlueSky. 
